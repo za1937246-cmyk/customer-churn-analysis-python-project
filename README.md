@@ -33,13 +33,13 @@ import seaborn as sns
 ```
 ## Library Roles:
 
-pandas → Data cleaning, manipulation, and analysis
+- **pandas** → Data cleaning, manipulation, and analysis
 
-numpy → Numerical computations and data operations
+- **numpy** → Numerical computations and data operations
 
-matplotlib → Data visualization through bar charts and line graphs
+- **matplotlib** → Data visualization through bar charts and line graphs
 
-seaborn → Enhanced statistical visualization with beautiful styling
+- **seaborn** → Enhanced statistical visualization with beautiful styling
 
 ## 🔍 Key Insights & Findings
 ### 📅 Contract Type and Churn
